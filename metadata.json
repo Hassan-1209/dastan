@@ -1,0 +1,6 @@
+{
+  "name": "DASTAN — The Taste of Home",
+  "description": "A luxury digital food editorial celebrating South Asian and Pakistani comfort food through immersive storytelling, cinematic presentation, and interactive culinary journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
